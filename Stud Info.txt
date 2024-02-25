@@ -3,3 +3,5 @@ Roll No.             Name                 Standard
  02                  Neha	             SY
  03		    Pooja		     TY
  04                 Preti                Final Year 
+ 04                 Priti S                  TY 
+
