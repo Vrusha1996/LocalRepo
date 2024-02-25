@@ -2,4 +2,4 @@ Roll No.             Name                 Standard
  01		   Vrushali                  FY
  02                  Neha	             SY
  03		    Pooja		     TY
- 04      Preeti      Final Year 
+ 04      Preti      Final Year 
